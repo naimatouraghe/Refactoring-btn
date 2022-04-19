@@ -1,0 +1,27 @@
+=> react-app-rewired: 
+
+config webpack sans passer par la destructuration avec eject
+
+
+=> axios 
+
+afin de se conformer aux outils d'entreprise j'ai souhaité faire le refactoring des appels aux api
+
+=> react-pdf/renderer
+
+librarie choisie pour la création du pdf
+
+
+=> qrcode 
+librairie choisie pour la création du qrcode
+
+=> problematiques :
+
+images qui ne peuvent pas etre recuperé par l'api 
+
+fonts à importer 
+
+
+
+
+
